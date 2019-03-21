@@ -1,0 +1,10 @@
+C:\Users\adm\Desktop\Projects\hex2string\hex2string\bin\Debug\hex2string.exe.config
+C:\Users\adm\Desktop\Projects\hex2string\hex2string\bin\Debug\hex2string.exe
+C:\Users\adm\Desktop\Projects\hex2string\hex2string\bin\Debug\hex2string.pdb
+C:\Users\adm\Desktop\Projects\hex2string\hex2string\obj\Debug\hex2string.csprojAssemblyReference.cache
+C:\Users\adm\Desktop\Projects\hex2string\hex2string\obj\Debug\hex2string.Form1.resources
+C:\Users\adm\Desktop\Projects\hex2string\hex2string\obj\Debug\hex2string.Properties.Resources.resources
+C:\Users\adm\Desktop\Projects\hex2string\hex2string\obj\Debug\hex2string.csproj.GenerateResource.cache
+C:\Users\adm\Desktop\Projects\hex2string\hex2string\obj\Debug\hex2string.csproj.CoreCompileInputs.cache
+C:\Users\adm\Desktop\Projects\hex2string\hex2string\obj\Debug\hex2string.exe
+C:\Users\adm\Desktop\Projects\hex2string\hex2string\obj\Debug\hex2string.pdb
